@@ -1,0 +1,17 @@
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\producer.exe
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\producer.deps.json
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\producer.runtimeconfig.json
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\producer.dll
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\producer.pdb
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.csproj.AssemblyReference.cache
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.AssemblyInfoInputs.cache
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.AssemblyInfo.cs
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.csproj.CoreCompileInputs.cache
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.csproj.Up2Date
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.dll
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\refint\producer.dll
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.pdb
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\producer.genruntimeconfig.cache
+C:\Users\yugank.anchal\Desktop\Rabbitmq\producer\obj\Debug\net8.0\ref\producer.dll
